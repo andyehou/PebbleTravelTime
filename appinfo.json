@@ -1,0 +1,56 @@
+{
+    "appKeys": {
+        "KEY_DESTINATION": 5,
+        "KEY_DISTANCE": 2,
+        "KEY_DURATION": 0,
+        "KEY_DURATION_IN_TRAFFIC": 1,
+        "KEY_ERROR_MSG": 4,
+        "KEY_TRAFFIC_CONDITION": 3
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Rad Radish",
+    "longName": "Travel time at a glance",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Exo-Bold.ttf",
+                "name": "FONT_EXO_20",
+                "type": "font"
+            },
+            {
+                "file": "images/car_36.png",
+                "name": "IMAGE_CAR",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/ChangaOne-Regular.ttf",
+                "name": "FONT_CHANGA_ONE_48",
+                "type": "font"
+            },
+            {
+                "file": "fonts/SquadaOne-Regular.ttf",
+                "name": "FONT_SQUADA_ONE_24",
+                "type": "font"
+            },
+            {
+                "file": "fonts/SquadaOne-Regular.ttf",
+                "name": "FONT_SQUADA_ONE_36",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Travel Time",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "2b60851b-9673-40c2-89c3-3a865f1f5af2",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
